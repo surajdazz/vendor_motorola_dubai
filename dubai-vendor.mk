@@ -886,6 +886,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/dubai/proprietary/vendor/lib/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadsprpc.so \
     vendor/motorola/dubai/proprietary/vendor/lib/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiser.so \
     vendor/motorola/dubai/proprietary/vendor/lib/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiserv2.so \
+    vendor/motorola/dubai/proprietary/vendor/lib/libanti_eyeglasses_reflection.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib/libanti_eyeglasses_reflection.arcsoft.so \
     vendor/motorola/dubai/proprietary/vendor/lib/libarcsoft_chi_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_chi_utils.so \
     vendor/motorola/dubai/proprietary/vendor/lib/libarcsoft_distortion_correction.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_distortion_correction.so \
     vendor/motorola/dubai/proprietary/vendor/lib/libarcsoft_hdr_detection.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_hdr_detection.so \
@@ -1330,6 +1331,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/dubai/proprietary/vendor/lib64/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsprpc.so \
     vendor/motorola/dubai/proprietary/vendor/lib64/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaidenoiser.so \
     vendor/motorola/dubai/proprietary/vendor/lib64/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaidenoiserv2.so \
+    vendor/motorola/dubai/proprietary/vendor/lib64/libanti_eyeglasses_reflection.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libanti_eyeglasses_reflection.arcsoft.so \
     vendor/motorola/dubai/proprietary/vendor/lib64/libaoa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaoa.so \
     vendor/motorola/dubai/proprietary/vendor/lib64/libappclassifier.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libappclassifier.so \
     vendor/motorola/dubai/proprietary/vendor/lib64/libarcsoft_chi_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_chi_utils.so \
