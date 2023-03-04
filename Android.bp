@@ -391,6 +391,24 @@ dex_import {
 	system_ext_specific: true,
 }
 
+dex_import {
+	name: "QPerformance",
+	owner: "motorola",
+	jars: ["proprietary/system/framework/QPerformance.jar"],
+}
+
+dex_import {
+	name: "QXPerformance",
+	owner: "motorola",
+	jars: ["proprietary/system/framework/QXPerformance.jar"],
+}
+
+dex_import {
+	name: "UxPerformance",
+	owner: "motorola",
+	jars: ["proprietary/system/framework/UxPerformance.jar"],
+}
+
 prebuilt_etc_xml {
 	name: "android.hardware.neuralnetworks@1.3-service-qti",
 	owner: "motorola",
